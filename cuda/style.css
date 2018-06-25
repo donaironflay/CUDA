@@ -1,0 +1,34 @@
+.text{
+	text-align: center;
+}
+.color1{
+	background-color:#87509D;
+	color: white;
+}
+.boton{;
+	color:#E99173 ;
+
+}
+.color2{
+	background-color:#14C3A2;
+	color: white;
+	text-align: center;
+}	
+.color3{
+	background-color:#D2EAE4;
+	color:	#8C8D8A;
+	text-align: center;
+}
+.circulo{
+	border-radius: 50%;
+	display: block;
+	margin: auto;
+	height: 200px;
+    width: 200px;
+}
+.p{
+	color:#29DFD4;
+}
+.p2{
+	color: black;
+}
